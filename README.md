@@ -1,10 +1,15 @@
-# Clone do Netflix :computer:![Netflix2](https://user-images.githubusercontent.com/80427325/111586486-aacc5600-879f-11eb-9057-2c53564fc7a1.PNG)
+# Clone do Netflix :computer:![Netflix2]
+
+![Netflix](https://user-images.githubusercontent.com/80427325/111587545-1f53c480-87a1-11eb-906a-fffba11de7e0.PNG)
+
 
 ### Objetivos :
-![Netflix](https://user-images.githubusercontent.com/80427325/111586449-9b4d0d00-879f-11eb-8151-0acaf09267b2.PNG)
+![Netflix](https://user-images.githubusercontent.com/80427325/111586486-aacc5600-879f-11eb-9057-2c53564fc7a1.PNG)
 ------------------------------------------------------------------------------------------
 ### Resultado e alterações:
-![Netflix2](https://user-images.githubusercontent.com/80427325/111586508-b3bd2780-879f-11eb-9fbc-3d27992a01a8.PNG)
+
+![Netflix](https://user-images.githubusercontent.com/80427325/111587567-27136900-87a1-11eb-9816-6651e6fbe017.PNG)
+
 
 **Moto G4**
 ![moto G4](https://user-images.githubusercontent.com/80427325/111587104-8329bd80-87a0-11eb-8e54-d0db7a7e9a42.PNG)
