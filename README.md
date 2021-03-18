@@ -1,6 +1,6 @@
 # Clone do Netflix :computer:![Netflix2]
 
-### Certificado
+### Certificado:
 --------------------
 ![certificado](https://user-images.githubusercontent.com/80427325/111588223-026bc100-87a2-11eb-8fe0-6dd6284ac76d.PNG)
 --------------------------------------
