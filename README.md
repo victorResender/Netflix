@@ -1,4 +1,4 @@
-# Clone do Netflix :computer:![Netflix2]
+# Clone do Netflix :computer:!
 
 ### Certificado:
 --------------------
