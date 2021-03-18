@@ -10,7 +10,7 @@ Projeto do modulo "Recriando a Interface do Netflix" da Digital Innovation One, 
 ![Netflix](https://user-images.githubusercontent.com/80427325/111587545-1f53c480-87a1-11eb-906a-fffba11de7e0.PNG)
 
 
-### Objetivos :
+### Objetivo :
 ![Netflix](https://user-images.githubusercontent.com/80427325/111586486-aacc5600-879f-11eb-9057-2c53564fc7a1.PNG)
 ------------------------------------------------------------------------------------------
 ### Resultados e alterações:
