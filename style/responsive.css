@@ -1,0 +1,74 @@
+@media screen and (max-width:900px){
+    .filme-principal .container{ /*css wrappers e containers,*/
+       
+        width: 60%;}
+       
+}
+
+@media screen and (max-width:800px){
+    .filme-principal .container{ /*css wrappers e containers,*/
+        margin-left: 20px;
+        width: 70%;}
+        .filme-principal{
+            
+            height: 400px;
+        }
+}
+
+@media screen and (max-width:617px){
+    .filme-principal .container{ /*css wrappers e containers,*/
+        width: 95%;}
+        header .container{
+            display: flex;
+            flex-direction: column;
+        }
+    .filme-principal{
+        padding-right: 30px;
+    }    
+        
+}
+
+@media screen and (max-width:440px){
+    header .container{
+        display: flex;
+        flex-direction: column;  
+        
+    }
+    .button{
+       
+        display: flex;
+        justify-content: center;
+        margin-bottom:10px ;
+    }
+    .botao2{
+        display: none;
+    }
+    .container .botao{
+        margin-bottom:2rem ;
+    }
+    header nav{
+        display: none;
+    }
+    #menu{
+        display: block;
+        color: #fff;
+        font-size: 30px;
+        margin-right: 1rem;
+        
+    }
+   header .container{
+       display: flex;
+       flex-direction: row;
+   }
+        
+}
+@media screen and (max-width:279px){
+    
+    .botao{
+        display: none;
+    }
+    #menu{
+        display: none;
+    }
+
+}
